@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Anmol Gathe. <br>I am currently in my final year pursuing B.Tech in computer engineering from JSPM Rajarshi Shahu College of Engineering.<br>I am passionate about cybersecurity.<br>Serving as an Application Security Intern in TCS.
 
-<iframe src="https://www.w3schools.com" style="height: 400px;></iframe>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-gathe-20ba11214) 
 
@@ -20,7 +20,7 @@ Hello, my name is Anmol Gathe. <br>I am currently in my final year pursuing B.Te
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 ---
 [![](https://visitcount.itsvg.in/api?id=AnmolGathe&icon=8&color=12)](https://visitcount.itsvg.in)
 
