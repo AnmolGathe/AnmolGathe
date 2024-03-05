@@ -20,7 +20,7 @@ Hello, my name is Anmol Gathe. <br>I am currently in my final year pursuing B.Te
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AnmolGathe&icon=8&color=12)](https://visitcount.itsvg.in)
 
